@@ -82,7 +82,7 @@ Desde la fiscalía general del Estado le contactan para diseña su App de gesti�
 
 Relacione las posibles clases con la asociación correcta, dado que un caso de corrupción puede tener múltiples personas implicadas. Este diseño permite gestionar de manera eficiente la información sobre los casos de corrupción y las personas involucradas en el sistema judicial de Ecuador. 
 
-## Problema 5: Sistema de gestión de conflitos
+## Problema 5: Sistema de gestión de conflictos
 
 La ONU _(Organización de Naciones Unidad)_ se contacta con usted para que desarrollo una App que les permita registrar y gestionar toda la información histórica y actual relacionada con los conflictos internacionales suscitados en el mundo contemporáneo dados los siguientes requerimientos: 
 
